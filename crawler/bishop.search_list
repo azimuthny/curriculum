@@ -1,0 +1,113 @@
+probability
+bayes theorem
+probability sum rule
+conditional probability
+joint probability
+marginal probability
+posterior probability
+information theory entropy
+	information theory jensen's inequality
+	jensen's inequality
+expectation and covariance
+gaussian distribution
+	gaussian distribution likelihood
+	gaussian distribution covariance
+normal distribution
+relative entropy
+	relative entropy jensen's inequality
+conjugate prior
+mutual information
+nonparametric density estimation
+k nearest neighbor
+multinomial distribution
+bernoulli distribution
+beta distribution
+dirichlet distribution
+	conditional gaussian distribution
+	marginal gaussian distribution
+	bayes theorem gaussian distribution
+	maximum likelihood gaussian distribution
+	bayesian gaussian distribution
+student t distribution
+kernel density estimation
+linear model regression
+bias variance decomposition
+	bayesian linear regression
+	bayesian model comparison
+	evidence approximation bayes
+maximum likelihood least squares
+	regularization least squares
+	predictive distribution
+	equivalent kernel
+	regularization
+machine learning classification
+	linear model classification
+machine learning regression
+probabilistic generative model
+	probabilistic discriminative model
+	laplace approximation posterior
+bayesian logistic regression
+fisher linear discriminant
+perceptron algorithm
+logistic regression
+	logistic regression gradient descent
+	logistic regression maximum likelihood
+	logistic regression maximum entropy
+	iterative reweighted least squares
+probit regression
+	canonical link function
+	model comparison bic
+neural networks
+neural network backpropagation
+	neural network hessian
+	neural network regularization
+	mixture density network
+training early stopping
+convolutional neural network
+	posterior parameter distribution
+support vector machine
+	support vector machine kernel
+	support vector machine dual representation
+radial basis network
+gaussian process
+relevance vector machine
+	computational learning theory
+probabilistic graphical model
+	graphical model d separation
+markov random field
+	graphical model inference
+	linear gaussian model
+sum product algorithm
+	graphical model message passing
+loopy belief propagation
+k means clustering
+mixture of gaussians
+expectation maximization
+	expectation maximization mixture of gaussians
+	expectation maximization jensen's inequality
+	expectation maximization bernoulli distribution
+	expectation maximization graphical model
+markov chain monte carlo
+	inference sampling
+gibbs sampling
+metropolis hastings sampling
+rejection sampling
+importance sampling
+slice sampling
+principal component analysis
+probabilistic principal component analysis
+	bayesian pca
+factor analysis
+independent component analysis
+	autoassociative neural network
+hidden markov model
+	hidden markov model graphical model
+	hidden markov model sum product algorithm
+linear dynamical system
+	linear dynamical system kalman
+viterbi algorithm
+forward backward algorithm
+boosting adaboost
+mixture of experts
+decision tree classification
+	decision tree entropy
